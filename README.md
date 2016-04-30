@@ -5,6 +5,7 @@
 ## Services
 
 * [wrapAPI – Build an API on top of any website](https://wrapapi.com/).
+* [JamAPI – Parse web pages using CSS query selectors](http://www.jamapi.xyz/).
 
 ## Libraries
 
