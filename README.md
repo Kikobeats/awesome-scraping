@@ -9,5 +9,5 @@
 
 ## Libraries
 
-* [x-ray – The next web scraper. See through the <html> noise](https://github.com/lapwinglabs/x-ray).
+* [x-ray – The next web scraper. See through the &lt;html&gt; noise](https://github.com/lapwinglabs/x-ray).
 * [scrape-it – A Node.js scraper for humans](https://github.com/IonicaBizau/scrape-it).
