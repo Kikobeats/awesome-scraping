@@ -11,3 +11,4 @@
 
 * [x-ray – The next web scraper. See through the &lt;html&gt; noise](https://github.com/lapwinglabs/x-ray).
 * [scrape-it – A Node.js scraper for humans](https://github.com/IonicaBizau/scrape-it).
+* [jsdom – A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js](https://github.com/tmpvar/jsdom).
