@@ -4,11 +4,10 @@
 
 ## Services
 
-* [wrapAPI – Build an API on top of any website](https://wrapapi.com/).
-* [JamAPI – Parse web pages using CSS query selectors](http://www.jamapi.xyz/).
+* [wrapAPI](https://wrapapi.com/) – Build an API on top of any website.
+* [JamAPI](http://www.jamapi.xyz/) – Parse web pages using CSS query selectors.
 
 ## Libraries
 
-* [x-ray – The next web scraper. See through the &lt;html&gt; noise](https://github.com/lapwinglabs/x-ray).
-* [scrape-it – A Node.js scraper for humans](https://github.com/IonicaBizau/scrape-it).
-* [jsdom – A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js](https://github.com/tmpvar/jsdom).
+* [scrape-it](https://github.com/IonicaBizau/scrape-it) – A Node.js scraper for humans.
+* [jsdom](https://github.com/tmpvar/jsdom) – A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
