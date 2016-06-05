@@ -9,5 +9,6 @@
 
 ## Libraries
 
+* [cheerio](https://github.com/cheeriojs/cheerio) – Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 * [scrape-it](https://github.com/IonicaBizau/scrape-it) – A Node.js scraper for humans.
 * [jsdom](https://github.com/tmpvar/jsdom) – A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
