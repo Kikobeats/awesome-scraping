@@ -4,11 +4,12 @@
 
 ## Services
 
-* [wrapAPI](https://wrapapi.com/) – Build an API on top of any website.
 * [JamAPI](http://www.jamapi.xyz/) – Parse web pages using CSS query selectors.
+* [wrapAPI](https://wrapapi.com/) – Build an API on top of any website.
 
 ## Libraries
 
 * [cheerio](https://github.com/cheeriojs/cheerio) – Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-* [scrape-it](https://github.com/IonicaBizau/scrape-it) – A Node.js scraper for humans.
 * [jsdom](https://github.com/tmpvar/jsdom) – A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
+* [parse5](https://github.com/inikulin/parse5) – WHATWG HTML5 specification-compliant, fast and ready for production HTML parsing/serialization toolset for Node.js.
+* [scrape-it](https://github.com/IonicaBizau/scrape-it) – A Node.js scraper for humans.
