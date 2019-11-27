@@ -8,6 +8,7 @@
 * [wrapAPI](https://wrapapi.com/) – Build an API on top of any website.
 * [TwitRSS.me](https://twitrss.me) – Get your twitter user feed as RSS.
 * [YQL](https://developer.yahoo.com/yql/) – Yahoo Query Language.
+* [ProxyCrawl](https://proxycrawl.com/) – Crawling and scraping API to avoid captchas, blocks and proxies.
 
 ## Libraries
 
