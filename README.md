@@ -4,6 +4,7 @@
 
 ## Services
 
+* [Amazon Scraper API](https://amazonscraperapi.com) – REST API for Amazon product, search, and batch ASIN data across 20 marketplaces. 1000 free requests.
 * [JamAPI](http://www.jamapi.xyz/) – Parse web pages using CSS query selectors.
 * [wrapAPI](https://wrapapi.com/) – Build an API on top of any website.
 * [TwitRSS.me](https://twitrss.me) – Get your twitter user feed as RSS.
