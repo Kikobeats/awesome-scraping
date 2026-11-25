@@ -8,6 +8,7 @@
 * [wrapAPI](https://wrapapi.com/) – Build an API on top of any website.
 * [TwitRSS.me](https://twitrss.me) – Get your twitter user feed as RSS.
 * [YQL](https://developer.yahoo.com/yql/) – Yahoo Query Language.
+* [Public Records](https://apify.com/publicrecords) – APIs for public data (US federal grants and contracts, EU/UK tenders, city council meetings, ATS jobs, company social links, Etsy, sports odds, Spotify plays) as Apify Actors with a free tier.
 
 ## Libraries
 
